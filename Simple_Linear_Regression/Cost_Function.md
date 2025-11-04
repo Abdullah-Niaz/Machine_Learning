@@ -115,3 +115,14 @@ Cost Function Value (MSE): 6.9
 | **Minimization Methods** | OLS or Gradient Descent                         |
 | **Key Output**           | (β_0) (intercept) and (β_1) (slope)             |
 
+
+
+
+[Cost Function](../Images/Cost_Function.png)
+
+The X-axis shows different possible slope (β1) values,
+and the Y-axis shows the cost (error) for each slope.
+
+🟦 Notice the U-shaped “bowl” curve — this represents the cost function.
+
+The lowest point on this curve is where the cost is minimal, meaning that’s the best value of 𝛽1 for your linear regression line — the line that fits the data best.
