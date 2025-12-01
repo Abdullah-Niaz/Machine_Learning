@@ -134,4 +134,4 @@ This process of walking downward until you stop improving is **convergence**.
 | 5    | Update slope and intercept                        |
 | 6    | Repeat until cost stops decreasing                |
 | 7    | Parameters have converged                         |
-
+---
