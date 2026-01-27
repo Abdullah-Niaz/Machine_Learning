@@ -1,4 +1,4 @@
-Supervised Machine Learning 
+## Supervised Machine Learning 
 1. Linear Regression 
 2. Multiple Regression 
 3. Polynomial Regression 
@@ -6,4 +6,5 @@ Supervised Machine Learning
 ---
 
 unsupervised machine learning 
+
 
